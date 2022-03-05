@@ -1,0 +1,117 @@
+database
+
+edugate
+
+1. enquiry         ----------done
+
+1. name
+2. email
+3. mobile
+4. message
+5. dateandtime
+
+2. site_setting -------------done
+
+
+1. logo
+2. email
+3. alt email
+4. mobile
+5. alt mobile
+6. fb
+7. tw
+8. linkedin
+9. insta
+10.address
+
+
+
+3.login           -------done
+
+1. username
+2. password
+3. date_time
+
+
+4. slider         ------------done
+
+1. image
+2. description
+3. url
+4. addeddate
+5. modifieddate
+
+
+5. course_category                  ---------------done only table admin left
+
+1. name
+2. image
+3. addeddate
+4. modifieddate
+
+6. courses                            ------------done only table admin left
+
+1. cat_id
+2. name
+3. image
+4. description
+5. duration
+5. showhome
+6. status
+5. addedate
+6. modifieddate
+
+
+testimonial    ------------done
+
+1. image
+2. name
+3. desgination
+4. description
+5. addedate
+6. modifieddate
+7. status
+
+blog       -------  done 
+
+1. heading
+2. image
+3. description
+4. addedate
+5. modifiedate
+
+
+gallery                     --------done
+
+
+1.image
+2. heading
+3. desc
+4. addedddat
+5. modifieddate
+6. status
+
+
+
+texteditor not accept more values
+
+
+button for export excel or csv
+
+
+
+
+
+
+
+
+https://www.cssscript.com/demo/responsive-lightbox-gallery-pure-javascript-css3-lightgallery/index.html
+
+
+https://www.cssscript.com/responsive-lightbox-gallery-pure-javascript-css3-lightgallery/
+
+
+
+
+
+https://www.jqueryscript.net/demo/wysiwyg-editor-bootstrap/
